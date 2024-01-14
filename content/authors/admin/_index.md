@@ -1,31 +1,31 @@
 ---
 # Display name
-title: 吳健雄
+title: Junwon Choi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Junwon
+last_name: Choi
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🤓
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: High School Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: White Station High School
+    url: https://schools.scsk12.org/whitestation-hs
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include robotics and video games.
 
 # Interests to show in About widget
 interests:
@@ -51,9 +51,9 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Solidworks CAD
         description: ''
-        percent: 80
+        percent: 10
         icon: python
         icon_pack: fab
       - name: Data Science
@@ -70,19 +70,19 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: Piano
         description: ''
         percent: 80
+        icon: person-hiking
+        icon_pack: fas
+      - name: Video Games
+        description: ''
+        percent: 80
+        icon: cat
+        icon_pack: fas
+      - name: Swimming
+        description: ''
+        percent: 30
         icon: camera-retro
         icon_pack: fas
 
