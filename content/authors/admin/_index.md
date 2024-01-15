@@ -25,13 +25,11 @@ organizations:
     url: https://schools.scsk12.org/whitestation-hs
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include robotics and video games.
+bio: My interests include music, robotics and video games.
 
 # Interests to show in About widget
 interests:
-  - name: Robotics
-    icon: robot
-    icon_pack: fas
+  - Robotics
   - Piano
   - Clarinet
   - Video games
@@ -59,16 +57,6 @@ skills:
         percent: 10
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
