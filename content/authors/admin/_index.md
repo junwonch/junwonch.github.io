@@ -31,7 +31,7 @@ bio: My interests include robotics and video games.
 interests:
   - name: Robotics
     icon: robot
-    icon_pack: fab
+    icon_pack: fas
   - Piano
   - Clarinet
   - Video games
