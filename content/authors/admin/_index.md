@@ -111,6 +111,6 @@ social:
 highlight_name: true
 ---
 
-Junwon Choi is a high school sophomore at White Station High School in Memphis, Tennessee. He is a member of the school's only robotics club and the math club; a clarinet player in the school band and in Wind Ensemble in the Memphis Youth Symphony Program; a pianist participating in an outreach program as well as in competitions including Young Artists Competition by Memphis Beethoven Club and Memphis International Piano Competition.
+Junwon Choi is a high school sophomore at White Station High School in Memphis, Tennessee. He is a member of the school's [FRC](https://www.firstinspires.org/robotics/frc) robotics club and math club; a clarinet player in the school band and in the [Memphis Youth Symphony Program's](https://www.myspmusic.org/) Wind Ensemble; and a pianist participating in an outreach program as well as in competitions including Young Artists Competition by [Memphis Beethoven Club](http://www.beethovenclubmemphis.org/index.html) and [Memphis International Piano Competition](https://www.memphis.edu/music/community/festivals/memphis_piano_festival/index.php/).
 
 {style="text-align: justify;"}
