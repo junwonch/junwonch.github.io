@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
-date: 2022-10-24
+title: 'Junwon Choi'
+date: 2024-01-15
 type: landing
 
 sections:
