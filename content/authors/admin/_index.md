@@ -3,7 +3,7 @@
 title: Junwon Choi
 
 # Name pronunciation (optional)
-name_pronunciation: June One
+# name_pronunciation: June-One Choy
 
 # Full name (for SEO)
 first_name: Junwon
@@ -29,7 +29,9 @@ bio: My interests include robotics and video games.
 
 # Interests to show in About widget
 interests:
-  - Robotics
+  - name: Robotics
+    icon: robot
+    icon_pack: fab
   - Piano
   - Clarinet
   - Video games
@@ -74,7 +76,7 @@ skills:
       - name: Piano
         description: ''
         percent: 80
-        icon: piano
+        icon: music
         icon_pack: fas
       - name: Video Games
         description: ''
