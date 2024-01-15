@@ -113,5 +113,4 @@ highlight_name: true
 
 Junwon Choi is a high school sophomore at White Station High School in Memphis, Tennessee. He is a member of the school's only robotics club and the math club; a clarinet player in the school band and in Wind Ensemble in the Memphis Youth Symphony Program; a pianist participating in an outreach program as well as in competitions including Young Artists Competition by Memphis Beethoven Club and Memphis International Piano Competition.
 
-He is decent in diep.io, Bed War in Minecraft, and about to be ranked nationally in a mobile game, Fantasy Brawl!  
 {style="text-align: justify;"}
