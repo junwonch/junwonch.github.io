@@ -6,6 +6,17 @@ image:
   placement: 2
   caption: "Image credit: DALL-E 3"
 
+authors:
+  - admin
+
+tags:
+  - Book review
+
+categories:
+  - Book
+  
+---
+
 The Old Man and the Sea
 Ernest Hemingway
 Short Story
