@@ -1,6 +1,6 @@
 ---
 title: The Old Man and the Sea Summary
-date: 2024-1-19
+date: 2024-19-1
 math: true
 image:
   placement: 2
