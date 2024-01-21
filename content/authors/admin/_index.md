@@ -30,8 +30,8 @@ bio: My interests include music, robotics and video games.
 # Interests to show in About widget
 interests:
   - Robotics
-  - Piano
-  - Clarinet
+  - Classical Music
+  - Travel
   - Video games
 
 # Education to show in About widget
